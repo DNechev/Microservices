@@ -19,6 +19,10 @@
       },
       "dotnetRunMessages": "true",
       "applicationUrl": "http://localhost:5003"
+    },
+    "WSL 2": {
+      "commandName": "WSL2",
+      "distributionName": ""
     }
   }
 }
